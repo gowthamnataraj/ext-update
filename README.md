@@ -13,25 +13,6 @@
 
 ---
 
-## Tools Built with Bolt CEP
-
-[Klutz GPT](https://hyperbrew.co/tools/klutz-gpt/) ( by Hyper Brew ) | ChatGPT for After Effects
-
-[Rubberhose 3](https://www.battleaxe.co/rubberhose) ( by Battle Axe ) | The fastest and simplest way to rig and animate characters in After Effects
-
-[Version Raptor](https://hyperbrew.co/tools/version-raptor/) ( by Hyper Brew ) | Next Level Versioning for Premiere Pro and After Effects
-
-[Note Clips](https://jiggypuff.gumroad.com/l/ClipNotes) ( by Jiggy ) | A Notes App for Premiere Pro and After Effects
-
-[TikTokText](https://aescripts.com/tiktoktext/) ( by Allan Raffel ) | Quick and easy TikTok style text for After Effects
-
-[After Diffusion](https://github.com/Trentonom0r3/After-Diffusion) ( by Trenton ) | Stable Diffusion in After Effects
-
-[Color Fuse AI](https://colorfuseai.com/) ( by Nemerem ) | AI-Chat powered color palettes
-
-[Ready Project](https://rgl.gumroad.com/l/ReadyProjectDL) ( by RGL ) | Folder and Export presets for Premiere Pro
-
----
 
 ## Quick Start
 
