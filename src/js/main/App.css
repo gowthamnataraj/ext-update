@@ -1,0 +1,148 @@
+/* App.css */
+.app {
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  padding: 20px;
+  background-color: #121212; /* Use a dark background from the new styles */
+  color: #e0e0e0; /* Use a light color for text from the new styles */
+}
+
+/* Styles for form controls */
+.MuiTextField-root {
+  margin: 8px;
+  background-color: #555; /* Darker text fields */
+  border-radius: 4px;
+  color: #e0e0e0; /* Ensure text is visible on the dark background */
+}
+
+.MuiOutlinedInput-root {
+  color: white;
+  fieldset {
+    border-color: white;
+  }
+}
+
+.MuiOutlinedInput-root.Mui-focused fieldset {
+  border-color: white;
+}
+
+.MuiInputLabel-root {
+  color: white;
+}
+
+.MuiInputLabel-root.Mui-focused {
+  color: white;
+}
+
+/* Button styles */
+.MuiButton-root {
+  margin: 8px;
+  color: white; /* Maintain the light text for buttons */
+}
+
+/* Style the sketch list sections */
+.sketch-lists {
+  display: flex;
+  justify-content: space-between;
+}
+
+.primary-sketches, .detail-sketches {
+  margin: 16px;
+  border: 1px solid #555;
+  border-radius: 4px;
+  padding: 8px;
+  background-color: #444; /* Darker background for sections */
+  color: white;
+  width: 48%; /* Adjust the width as needed */
+}
+
+/* Styles for the tool list and list items */
+.tools .MuiListItem-root {
+  background-color: #1e1e1e;
+  margin-bottom: 4px;
+  border-bottom: 1px solid #555; /* Add border for separation */
+  color: #fff; /* Ensure text is visible */
+}
+
+/* Icon button styles */
+.MuiIconButton-root {
+  color: #f44336; /* Use Material-UI red color for contrast */
+}
+
+/* Heading styles */
+h2 {
+  color: white;
+  text-align: center;
+  margin-bottom: 16px;
+}
+/* ... existing styles ... */
+
+/* Tools and Libraries List Styles */
+/* App.css */
+/* ... existing styles ... */
+
+/* Tools and Libraries List Styles */
+.tools .MuiListItem-root, .libraries .MuiListItem-root {
+  background-color: #2c2c2c; /* Dark grey background for list items */
+  margin-bottom: 8px; /* Spacing between list items */
+  border-radius: 4px; /* Rounded corners for list items */
+  padding-left: 16px; /* Padding inside the list items */
+}
+
+.tools .MuiListItemIcon-root, .libraries .MuiListItemIcon-root {
+  color: #ffffff; /* White color for icons to stand out */
+  min-width: 36px; /* Adjust icon sizing */
+}
+
+.tools .MuiListItemText-primary, .libraries .MuiListItemText-primary {
+  color: #ffffff; /* White color for text */
+  font-size: 0.875rem; /* Adjust text size if needed */
+}
+
+/* ... additional styles for dark theme ... */
+
+
+
+
+/* ... existing styles ... */
+
+.sketch-image {
+  width: 100px; /* Adjust the size as needed */
+  height: auto;
+  margin-top: 10px;
+} 
+
+#croquis-label {
+  color: white;
+}
+
+/* Additional styles for Input */
+.MuiInputBase-root {
+  margin-bottom: 16px; /* Add margin-bottom for spacing */
+}
+
+#croquis-select .MuiMenuItem-root {
+  color: white;
+}
+
+/* Additional styles for Select */
+#croquis-select {
+  color: white; /* Color for the selected option text */
+}
+@keyframes clickedAnimation {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+    background-color: #333;
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.clicked {
+  animation: clickedAnimation 0.5s ease;
+}
+
+/* ... existing styles ... */
