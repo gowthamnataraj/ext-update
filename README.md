@@ -1,4 +1,5 @@
-
+### About the Extension
+This extension helps fashion designers be more efficient in their workflow/job by allowing them to directly create excel and PDF copies to ship to manufacturers. 
 
 ### Dev Requirements
 
