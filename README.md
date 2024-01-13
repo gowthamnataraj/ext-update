@@ -1,26 +1,4 @@
-<img src="src/js/assets/bolt-cep.svg" alt="Bolt CEP" title="Bolt CEP" width="400" />
 
-A lightning-fast boilerplate for building Adobe CEP Extensions in React, Vue, or Svelte built on Vite + TypeScript + Sass
-
-![npm](https://img.shields.io/npm/v/bolt-cep)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/hyperbrew/bolt-cep/blob/master/LICENSE)
-[![Chat](https://img.shields.io/badge/chat-discord-7289da.svg)](https://discord.gg/PC3EvvuRbc)
-
-## Features
-
-- Lightning Fast Hot Module Replacement (HMR)
-- Write Modern ES6 in both the JavaScript and ExtendScript layers
-- Type-safe ExtendScript with Types-for-Adobe
-- End-to-End Type Safety with evalTS()
-- Easily configure in cep.config.ts
-- Setup for single or multi-panel extensions
-- Comes with multi-host-app configuration
-- Optimized Build Size
-- Easy Publish to ZXP for Distribution
-- Easy Package to ZIP archive with sidecar assets
-- GitHub Actions ready-to-go for ZXP Releases
-
-_Full Blog Post:_ https://hyperbrew.co/blog/bolt-cep-build-extensions-faster/
 
 ### Dev Requirements
 
